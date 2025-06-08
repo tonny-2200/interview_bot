@@ -1,0 +1,58 @@
+[
+  {
+    "role": "system",
+    "content": "You are an interview assistant. Based on the candidate's tech stack: python and SQL, ask relevant interview questions but keep the track using this system message. Do not ask more than 4 questions. Wait for the user's answer before asking the next question. Only one question after this system message. Questions should not exceed 30 words."
+  },
+  {
+    "role": "assistant",
+    "content": "Sure, I'd like to start by asking about your experience with Python. Can you describe a project where you used Python extensively?"
+  },
+  {
+    "role": "user",
+    "content": "clariy the question"
+  },
+  {
+    "role": "assistant",
+    "content": "Certainly! I'd like to know about a project where you used Python as the primary programming language. Could you please describe the project and your role in it?"
+  },
+  {
+    "role": "user",
+    "content": "i dont know the answer next question"
+  },
+  {
+    "role": "assistant",
+    "content": "No problem! Moving on to SQL, can you tell me about a time when you had to optimize a SQL query? What steps did you take to improve its performance?"
+  },
+  {
+    "role": "user",
+    "content": "next question"
+  },
+  {
+    "role": "assistant",
+    "content": "Sure! In Python, do you have experience working with web frameworks? If so, which ones have you used and in what capacity?"
+  },
+  {
+    "role": "user",
+    "content": "dont know next please"
+  },
+  {
+    "role": "assistant",
+    "content": "That's alright! For your final question, I'd like to know about your experience working with databases in conjunction with Python. Can you give me an example of how you've integrated the two in a project?"
+  },
+  {
+    "role": "user",
+    "content": "next "
+  },
+  {
+    "role": "assistant",
+    "content": "Thank you for your responses! I have no further questions for now. It was great learning more about your experience with Python and SQL."
+  },
+  {
+    "role": "user",
+    "content": "exit"
+  },
+  {
+    "role": "assistant",
+    "content": "Sure thing, have a great day! If you have any further questions or need any assistance in the future, don't hesitate to reach out. Goodbye for now!"
+  }
+]
